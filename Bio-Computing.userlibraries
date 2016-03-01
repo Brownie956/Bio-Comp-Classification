@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="commons-lang-2.5">
+    <archive path="/home/chris/Data/Documents/Uni Stuff/CSC3423-BioComp/Practicals/Practical2/Practical2/commons-lang-2.5.jar" />
+  </library>
+  <library name="epochx-1.4.1">
+    <archive path="/home/chris/Data/Documents/Uni Stuff/CSC3423-BioComp/Practicals/Practical2/Practical2/epochx-1.4.1.jar" />
+  </library>
+  <library name="jgap">
+    <archive path="/home/chris/Data/Documents/Uni Stuff/CSC3423-BioComp/Practicals/Practical1/Practical1-JGAP/jgap.jar" />
+  </library>
+  <library name="neuroph-core-2.92">
+    <archive path="/home/chris/Downloads/Neuroph/neuroph-2.92/neuroph-core-2.92.jar" />
+  </library>
+  <library name="neuroph-samples-2.92">
+    <archive path="/home/chris/Downloads/Neuroph/neuroph-2.92/neuroph-samples-2.92.jar" />
+  </library>
+</eclipse-userlibraries>
+

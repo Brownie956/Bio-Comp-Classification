@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_X" inherit-compiler-output="true" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/out/test/Bio-Computing"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<levels>
+		<level name="jgap" value="project"/>
+		<level name="commons-lang-2.5" value="project"/>
+		<level name="epochx-1.4.1" value="project"/>
+		<level name="neuroph-core-2.92" value="project"/>
+		<level name="neuroph-samples-2.92" value="project"/>
+	</levels>
+</component>

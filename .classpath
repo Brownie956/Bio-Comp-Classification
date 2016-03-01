@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/home/chris/Downloads/Neuroph/neuroph-2.92/neuroph-core-2.92.jar"/>
+	<classpathentry kind="lib" path="/home/chris/Downloads/JGap/jgap_3.6.3_full/jgap.jar"/>
+	<classpathentry kind="lib" path="/home/chris/Data/Documents/Uni Stuff/CSC3423-BioComp/Practicals/Practical2/Practical2/epochx-1.4.1.jar"/>
+	<classpathentry kind="lib" path="/home/chris/Data/Documents/Uni Stuff/CSC3423-BioComp/Practicals/Practical2/Practical2/commons-lang-2.5.jar"/>
+	<classpathentry kind="lib" path="/home/chris/Downloads/SLF4J/tar/slf4j-1.7.13/slf4j-api-1.7.13.jar"/>
+	<classpathentry kind="output" path="out/production/Bio-Computing"/>
+</classpath>
